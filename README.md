@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-p4n7h3rx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p4n7h3rx)
 [![X](https://img.shields.io/badge/X-P4n7h3Rx-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/P4n7h3Rx)
 [![Medium](https://img.shields.io/badge/Medium-p4n7h3rx-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@p4n7h3rx)
-[![Email](https://img.shields.io/badge/Email-hashirsamikhan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirsamikhan02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blazefrost18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blazefrost18@gmail.com)
 
 </div>
 
@@ -60,8 +60,7 @@ Red Team    │ C2 Frameworks · Phishing · AD Attacks · Lateral Movement · E
 ## 📫 Get in Touch
 
 - 🌐 **Portfolio** — [hashirsamikhan.com](https://hashirsamikhan.com)
-- 📧 **Email** — [hashirsamikhan02@gmail.com](mailto:hashirsamikhan02@gmail.com)
-- 💬 **WhatsApp** — [+92 313 2941767](https://wa.me/923132941767)
+- 📧 **Email** — [blazefrost18@gmail.com](mailto:blazefrost18@gmail.com)
 - 💼 **LinkedIn** — [@p4n7h3rx](https://linkedin.com/in/p4n7h3rx)
 - 🐦 **X (Twitter)** — [@P4n7h3Rx](https://twitter.com/P4n7h3Rx)
 - ✍️ **Medium** — [@p4n7h3rx](https://medium.com/@p4n7h3rx)

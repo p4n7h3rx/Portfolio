@@ -1,71 +1,78 @@
-<body><div align="center">
-  <h1><a id="user-content--hola-this-is-p4n7h3rx-" class="anchor" aria-hidden="true" href="#-hola-this-is-P4N7H3Rx-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Hola! This is P4N7H3Rx. <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"></a></h1>
+<div align="center">
+
+# Hashir Sami Khan
+
+### Penetration Tester · Red Teamer · Security Researcher · AI Engineer
+
+**Pakistan-based · Available worldwide**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hashirsamikhan.com-A855F7?style=for-the-badge&logo=icloud&logoColor=white)](https://hashirsamikhan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-p4n7h3rx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/p4n7h3rx)
+[![X](https://img.shields.io/badge/X-P4n7h3Rx-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/P4n7h3Rx)
+[![Medium](https://img.shields.io/badge/Medium-p4n7h3rx-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@p4n7h3rx)
+[![Email](https://img.shields.io/badge/Email-hashirsamikhan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirsamikhan02@gmail.com)
+
 </div>
 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/p4n7h3rx" rel="nofollow"><img height="25" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/P4n7h3Rx" rel="nofollow"><img height="25" src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@p4n7h3rx" rel="nofollow"><img height="25" src="https://camo.githubusercontent.com/2505d3a631ec6f2cf7a8baabf83586478bd3c3a39e15119c358249fed969291f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d2532333335343233302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Website-%23354230.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width:100%;"></a>&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/P4N7H3R" rel="nofollow"><img height="25" src="https://camo.githubusercontent.com/c3f856bacd5b09669157ed4774f80fb9d8622dd45ce8fdf2990d3552db99bd27/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67" alt="Buy Me A Coffee" data-canonical-src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="max-width:100%;"></a>
-</p>
+---
+
+## 👋 About
+
+I'm a cybersecurity professional with **4+ years** of hands-on experience in offensive security — penetration testing, red teaming, and security research for national and international clients, including tech giants and financial institutions. Lately I also engineer **AI products**, with a security-first mindset.
+
+I find what attackers would — before they do — and hand you a clear path to fix it.
+
+## 🛠️ What I Do
+
+| Discipline | Focus |
+|---|---|
+| **Penetration Testing** | Web Apps · Mobile (iOS/Android) · APIs · Networks |
+| **Red Teaming** | Phishing · C2 Frameworks · AD Attacks · Lateral Movement · Evasion |
+| **Security Research** | Vulnerability Research · Source Code Review · OSINT · IoT Hacking |
+| **AI Engineering** | LLM Apps · AI Agents · Automation · Security-first AI |
+
+## 💻 Tech Stack
+
+```text
+Security    │ Burp Suite · Metasploit · Nmap · Wireshark · OSINT
+AI / ML     │ OpenAI · Claude · LangChain · RAG · Automation
+Development │ Python · Bash · JavaScript · Node.js · React · MySQL · MongoDB
+Red Team    │ C2 Frameworks · Phishing · AD Attacks · Lateral Movement · Evasion
+```
+
+## 🎓 Selected Certifications
+
+- **IBM Cybersecurity Analyst Professional Certificate** — IBM (Coursera)
+- **CS50x: Introduction to Computer Science** — Harvard University
+- **Ethical Hacking Essentials (EHE)** — EC-Council
+- **Digital Forensics Essentials (DFE)** — EC-Council
+- **CompTIA CySA+ (CS0-002) Prep** — CompTIA
+- **CISSP Exam Preparation** — (ISC)²
+- **CISA & CISM Exam Preparation** — ISACA
+- **Black Hat Python for Pentesters**
+- **Advanced Kali Linux** — LinkedIn Learning
+- **Cybersecurity for Industrial Control Systems (100W / 210W)** — CISA / ICS-CERT
+- **Blockchain & Smart Contracts Security**
+- **Hands-on Android Security**
+
+*Plus 15+ more across zero trust, network security, soft skills, and Scrum.*
+
+## 📫 Get in Touch
+
+- 🌐 **Portfolio** — [hashirsamikhan.com](https://hashirsamikhan.com)
+- 📧 **Email** — [hashirsamikhan02@gmail.com](mailto:hashirsamikhan02@gmail.com)
+- 💬 **WhatsApp** — [+92 313 2941767](https://wa.me/923132941767)
+- 💼 **LinkedIn** — [@p4n7h3rx](https://linkedin.com/in/p4n7h3rx)
+- 🐦 **X (Twitter)** — [@P4n7h3Rx](https://twitter.com/P4n7h3Rx)
+- ✍️ **Medium** — [@p4n7h3rx](https://medium.com/@p4n7h3rx)
+
+---
+
+> _This repository previously hosted my first portfolio website. It's now archived in favor of [**hashirsamikhan.com**](https://hashirsamikhan.com), where all my latest work lives._
+
 <div align="center">
-<h3><a id="P4n7h3r" class="anchor" aria-hidden="true" href="#P4N7H3R"></a>  Hashir Sami Khan | <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Cyber Security Enthusiast | <g-emoji class="g-emoji" alias="earth_asia" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30f.png">🌏</g-emoji> Pakistan </h3> </div>
-<div align="center">
-<p>  
-I Am a Cyber Security Enthusiast :)) 
-</p>
-<p>I am a skilled and passionate Penetration Tester and Security Researcher with a proven track record of four years in the industry. Throughout my career, I have had the privilege of collaborating with numerous esteemed national and international clients, including renowned tech giants and prominent financial institutions.<p></p>
 
-<p>My expertise lies in performing comprehensive penetration testing assessments, meticulously identifying vulnerabilities, and implementing robust security solutions to safeguard sensitive information. I am well-versed in utilizing cutting-edge tools and techniques to assess network infrastructures, web applications, and mobile platforms. By conducting thorough security assessments, I have effectively assisted organizations in fortifying their defenses against potential threats.</p>
+**Need to test your defenses — or build something intelligent?**
+[Let's talk →](https://hashirsamikhan.com#contact)
 
-<p>In my role as a security researcher, I have continuously stayed abreast of the latest cybersecurity trends, emerging threats, and industry best practices. I thrive in dynamic environments that demand critical thinking, problem-solving, and adaptability. My ability to think like an attacker enables me to uncover vulnerabilities that might otherwise go unnoticed, ensuring comprehensive protection for my clients.</p>
-
-<p>Beyond technical prowess, I am a skilled communicator and collaborator. I possess a demonstrated ability to translate complex technical concepts into easily understandable language for stakeholders at all levels. Throughout my career, I have effectively partnered with cross-functional teams, providing actionable insights and recommendations to enhance the security posture and mitigate risks.</p>
-
-<p>If you are seeking a dedicated and results-oriented Penetration Tester and Security Researcher, I invite you to connect with me. Together, we can bolster your organization's defenses, minimize vulnerabilities, and achieve excellence in cybersecurity.</p>
-<br><br>
-  </p>
-<br><br>
-
-<div align="left">  
-<h3><a id="user-content-my-skillset" class="anchor" aria-hidden="true" href="#my-skillset"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>My Skillset:</h3>
-
-
-<ul>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Web Application  Penetration Testing.</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Mobile Application Penetration Testing (Android and iOS).</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> API Assessment.</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Network Assessment.</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Source Code Review.</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Vulnerability Assessment. </li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> Red Teaming</li>
-<li><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji> IoT Hacking</li>
-</ul>
-<br>
-
-  
-
-<br><br>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=p4n7h3rx&amp;&amp;show_icons=true&amp;theme=radical">
-
-
-<br><br>
-
-<h2><a id="user-content--technologies--tools" class="anchor" aria-hidden="true" href="#-technologies--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Technologies &amp; Tools</h2>
-
-
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d729e37a83cf3a3bbdf2f7f25d4524addc948d35381b5bd748e95b1054abe3b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/d729e37a83cf3a3bbdf2f7f25d4524addc948d35381b5bd748e95b1054abe3b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&amp;logo=linux&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/082c63fc08e8e32523e5c2fcdc489b60c11d6f61b6abcb1c3208331d2ad24bb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/082c63fc08e8e32523e5c2fcdc489b60c11d6f61b6abcb1c3208331d2ad24bb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d426173682d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/54a82516b900bfc1ff6c1b654b6b9fbd42b5f7f765a17d54c64b34ed73fcd4cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/54a82516b900bfc1ff6c1b654b6b9fbd42b5f7f765a17d54c64b34ed73fcd4cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1027acd6ce99dae849db18c5c1e0a8f7d839e66c7657d04e5b81a979751bfada/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4e6f64652e6a732d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/1027acd6ce99dae849db18c5c1e0a8f7d839e66c7657d04e5b81a979751bfada/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4e6f64652e6a732d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7dbf984e8f9b500932eadbd6760cc2598a8b74054e59fd9c70c07599a1bda8c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d52656163742d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/7dbf984e8f9b500932eadbd6760cc2598a8b74054e59fd9c70c07599a1bda8c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d52656163742d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Code-React-informational?style=for-the-badge&amp;logo=React&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/23ee5f626894be922675e4a56437b5e245686c5425de4c626ae725ff66f6941d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d432d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/23ee5f626894be922675e4a56437b5e245686c5425de4c626ae725ff66f6941d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d432d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/507a49d69d0d704fada193da28a93cec07f423556688f48033d2508e0812e58a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d456d6265646465645f432d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/507a49d69d0d704fada193da28a93cec07f423556688f48033d2508e0812e58a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d456d6265646465645f432d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Code-Embedded_C-informational?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/452ad9065271ec6e8aa57101807bc44d094022868daf3445ba1867c4dad5ba91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d536f757263655061776e2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d536f757263652d456e67696e65266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/452ad9065271ec6e8aa57101807bc44d094022868daf3445ba1867c4dad5ba91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d536f757263655061776e2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d536f757263652d456e67696e65266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Code-SourcePawn-informational?style=for-the-badge&amp;logo=Source-Engine&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/31e44bdc79ab2d630deb12e48412c6a211bf9accaf1cfc5604fb775b581c1420/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7953514c266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/31e44bdc79ab2d630deb12e48412c6a211bf9accaf1cfc5604fb775b581c1420/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4d7953514c2d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d7953514c266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Tool-MySQL-informational?style=for-the-badge&amp;logo=MySQL&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ca4a7f09862909ce9b18b6dccae896315be19b969f7467cee74db881fb9be757/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4d6f6e676f44422d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d776869746526636f6c6f723d726564"><img src="https://camo.githubusercontent.com/ca4a7f09862909ce9b18b6dccae896315be19b969f7467cee74db881fb9be757/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4d6f6e676f44422d696e666f726d6174696f6e616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d776869746526636f6c6f723d726564" alt="" data-canonical-src="https://img.shields.io/badge/Tool-MongoDB-informational?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=white&amp;color=red" style="max-width:100%;"></a></p>
-
-</div></div></body>
+</div>
